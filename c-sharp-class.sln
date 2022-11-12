@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-sharp-class", "c-sharp-class\c-sharp-class.csproj", "{F770F2C6-3130-41A8-B89D-F781BC181190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F770F2C6-3130-41A8-B89D-F781BC181190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F770F2C6-3130-41A8-B89D-F781BC181190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F770F2C6-3130-41A8-B89D-F781BC181190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F770F2C6-3130-41A8-B89D-F781BC181190}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
